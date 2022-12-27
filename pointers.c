@@ -9,4 +9,5 @@ int main()
     printf("value of address of p is %x ",&p);
     printf("valur of null pointer %d ", *p2);
 }
+// this file contains poimters 
 
