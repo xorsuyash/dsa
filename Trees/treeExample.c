@@ -49,6 +49,11 @@ int main()
    
 
    printtree(n1);
+   free(n1);
+   free(n2);
+   free(n3);
+   free(n4);
+   free(n5);
 
 
       
